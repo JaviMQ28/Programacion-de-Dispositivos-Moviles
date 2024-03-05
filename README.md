@@ -1,2 +1,8 @@
 # Programacion-de-Dispositivos-Moviles
-Repositorio donde se subirán las prácticas de la materia de Programación de Dispositivos Móviles
+Nombre: Mancera Quiroz Javier Alejandro
+No. de cuenta: 319274831
+
+- Versión de Android = 8.0 ("Oreo")
+- compileSdk = 34
+- tarjetSdk = 34
+- minSdk = 26
